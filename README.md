@@ -31,10 +31,13 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![Screenshot 2023-03-29 225242](https://user-images.githubusercontent.com/30635422/228716847-48e43416-a652-460d-a1a0-e31fcbc94fe7.png)
+![Screenshot 2023-04-01 120930](https://user-images.githubusercontent.com/30635422/229301950-87c5015a-c5e8-4570-a1b4-8b5004835c5f.png)
+![Screenshot 2023-04-01 120754](https://user-images.githubusercontent.com/30635422/229301952-d415d32f-141c-40b5-b802-a124bb905424.png)
 
 
-https://user-images.githubusercontent.com/30635422/228716772-ce24d7dd-e3b2-469f-a441-1ae76c3470bc.mp4
+
+https://user-images.githubusercontent.com/30635422/229301981-b9aa88b5-a0d6-4e1b-8685-c4287555a720.mp4
+
 
 
 ## Notes
