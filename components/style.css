@@ -110,3 +110,17 @@ body {
   margin-top: 10px;
   margin-bottom: 20px;
 }
+
+.dogName,
+.dredFor {
+  color: white;
+  text-decoration: none;
+}
+
+.singleDog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 100px auto;
+  text-align: left;
+}

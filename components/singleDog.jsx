@@ -25,24 +25,24 @@ export default function singleDog() {
     <div className="dogInfo">
       {dogDetail.map((item) => (
         <div key={item.id} className="singleDog">
-          <div>
+          <div className="dogImage">
             <img
               src={`https://cdn2.thedogapi.com/images/${item.reference_image_id}.jpg`}
               alt={item.name}
             />
           </div>
-          <div>
+          <div className="dogInformation">
             <h1 className="dogName">{item.name}</h1>
             {item.description && <p>{item.description}</p>}
 
-            <ul children="dogDiscription">
+            <div children="dogDiscription">
               <p className="bred">Bred for: {item.bred_for}</p>
               <p className="height">Height: {item.height.imperial} cm</p>
               <p className="weight">Weight: {item.weight.imperial} Lbs</p>
               <p className="breedGroup">Breed Group: {item.breed_group}</p>
               <p className="lifespan">Lifespan: {item.life_span}</p>
               <p className="tempermant">Temperament: {item.temperament}</p>
-            </ul>
+            </div>
 
             <Link to="/">
               <button className="backToMain">Back</button>
